@@ -28,6 +28,10 @@ For example, you can link to a product on the OBIS catalogue by using the follow
 
 `[![](https://raw.githubusercontent.com/iobis/badges/refs/heads/main/badges/obis-products_catalogue.svg)](https://products.obis.org/dataset/10-5281-zenodo-19392660)`
 
+This is rendered as that:
+
+[![](https://raw.githubusercontent.com/iobis/badges/refs/heads/main/badges/obis-products_catalogue.svg)](https://products.obis.org/dataset/10-5281-zenodo-19392660)
+
 ## Development
 
 Badges are created by specifying the attributes on [`badges-specs.yml`](badges-specs.yml). Logos should be base64 encoded and added to [`base-64-logos.json`](base-64-logos.json). Make sure the name and type of the logo on the YAML file matches those in the JSON file.

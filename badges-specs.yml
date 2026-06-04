@@ -1,0 +1,23 @@
+ioc:
+  types:
+    hlo:
+      - right-color: 2f6fef
+      - left-color: black
+      - left-text: IOC
+      - logo: ioc
+      - logo-type: logo_white
+      - right-text:
+        - HLO1 Healthy ocean
+        - HLO2 Warning systems
+        - HLO3 Resilience to climate change
+        - HLO4 Sustainable ocean economy
+        - HLO5 Emerging ocean science
+obis:
+  types:
+    products-catalogue:
+      - right-color: 2f6fef
+      - left-color: black
+      - left-text: OBIS
+      - logo: obis
+      - logo-type: icon_white
+      - right-text: Products catalogue
